@@ -84,30 +84,6 @@ export const modalssss = [
 
 
     },
-    // {
-    //     image: "https://laserbinhthuan.com/wp-content/uploads/2021/10/meta-logo-facebook.jpg",
-    //     title: 'Certificate',
-    //     name: 'Meta',
-    //     modal: 'https://raw.githubusercontent.com/levinhkhangzz/assets/main/z5164475138499_f66102b26d26a8b2e05af624fffab1e0.jpg',
-
-
-    // },
-    // {
-    //     image: "https://th.bing.com/th/id/OIP.kY7h_2SMSJv6fdNrPrAROQAAAA?w=400&h=400&rs=1&pid=ImgDetMain",
-    //     title: 'Certificate',
-    //     name: 'Google Cloud',
-    //     modal: 'https://raw.githubusercontent.com/levinhkhangzz/assets/main/z5164475157110_f11989f1964f1fb581f7d2efd0bb5788.jpg',
-
-
-    // },
-    // {
-    //     image: "https://th.bing.com/th/id/OIP.ysdCJiI4OEy9VF-5ituvWwAAAA?w=300&h=300&rs=1&pid=ImgDetMain",
-    //     title: 'Certificate',
-    //     name: 'Amazon Web Service',
-    //     modal: 'https://raw.githubusercontent.com/levinhkhangzz/assets/main/z5164475154720_a0157710d39eed70389cf7b43ff6793a.jpg',
-
-
-    // },
 
 
 
