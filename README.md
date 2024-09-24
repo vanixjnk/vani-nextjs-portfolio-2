@@ -13,8 +13,11 @@ Chào mừng bạn đến với trang web portfolio của tôi, được xây d�
 
 - [Next.js](https://nextjs.org/)
 - [React.js](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Ant Design](https://ant.design/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [react-hot-toast](https://react-hot-toast.com/)
+
 
 ## Bắt đầu
 
