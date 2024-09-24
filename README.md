@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio của Vani
 
-## Getting Started
+Chào mừng bạn đến với trang web portfolio của tôi, được xây dựng bằng [Next.js](https://nextjs.org)! Trang web này giới thiệu các dự án, kỹ năng và kinh nghiệm của tôi với tư cách là lập trình viên frontend.
 
-First, run the development server:
+## Tính năng
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Thiết kế đáp ứng
+- Điều hướng dễ dàng
+- Trình bày dự án
+- Form liên hệ với thông báo toast
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Công nghệ sử dụng
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Next.js](https://nextjs.org/)
+- [React.js](https://reactjs.org/)
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [react-hot-toast](https://react-hot-toast.com/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Bắt đầu
 
-## Learn More
+Để có một bản sao cục bộ và chạy, hãy làm theo các bước sau:
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone kho lưu trữ**:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```bash
+   git clone https://github.com/vanixjnk/vani-nextjs-portfolio-2.git
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. **Chuyển đến thư mục dự án**:
 
-## Deploy on Vercel
+   ```bash
+   cd vani-nextjs-portfolio-2
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Cài đặt các phụ thuộc**:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   npm install
+   ```
+
+4. **Chạy máy chủ phát triển**:
+
+   ```bash
+   npm run dev
+   ```
+
+5. **Mở trình duyệt và truy cập** [http://localhost:3000](http://localhost:3000) để xem portfolio.
+
+## Sử dụng
+
+Hãy thoải mái khám phá các phần khác nhau của portfolio. Bạn có thể xem các dự án, kỹ năng và liên hệ với tôi thông qua form liên hệ.
+
+## Đóng góp
+
+Các đóng góp là rất hoan nghênh! Nếu bạn có đề xuất hoặc cải tiến nào, hãy tạo một pull request hoặc mở một issue.
+
+## Giấy phép
+
+Dự án này được cấp phép theo Giấy phép MIT. Xem tệp [LICENSE](LICENSE) để biết chi tiết.
+
+## Cảm ơn
+
+- Cảm ơn cộng đồng Next.js vì sự hỗ trợ và tài nguyên tuyệt vời.
