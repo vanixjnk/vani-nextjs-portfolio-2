@@ -1,6 +1,14 @@
-# Portfolio của Vani
+![40shots_so]([https://i.imgur.com/8RulYlw.png](https://i.imgur.com/x5EaGA2.png))
 
-Chào mừng bạn đến với trang web portfolio của tôi, được xây dựng bằng [Next.js](https://nextjs.org)! Trang web này giới thiệu các dự án, kỹ năng và kinh nghiệm của tôi với tư cách là lập trình viên frontend.
+⚡ Portfolio của Vani ⚡
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Liên hệ 🤠
+
+· Email: vanixjnk@gmail.com <br>
+· [Portfolio](https://vanixjnk.dev) <br>
+· [GitHub](https://github.com/vanixjnk)
 
 ## Tính năng
 
